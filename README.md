@@ -1,5 +1,8 @@
 # inversion_well_logs_sandstone
-This is a package for the inversion of multi-physics well logs associated with sandstones with two pore system
+This is a package for the inversion of multi-physics well logs associated with sandstones with two pore systems.
+
+Very Fast Simulated Annealing (VFSA) is the global and stochastic optimization algorithm and here we customize it for well log inversion.  
+
 
 To run the codes, please run "vfsa_GR_Density_Sonic_Resisit_Sandstone_v04.m" code. It will call all the depencencies for the project.
 
