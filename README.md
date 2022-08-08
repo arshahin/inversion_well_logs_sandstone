@@ -11,6 +11,9 @@ Please cite this paper if you use these codes.
 
 https://www.mdpi.com/2076-3417/12/3/1255
 
+https://www.researchgate.net/publication/358120647_Borehole_Geophysical_Joint_Inversion_to_Fully_Evaluate_Shaly_Sandstone_Formations#fullTextFileContent
+
+
 Shahin, A., Myers, M.T., Hathon, L.A., 2022, Borehole geophysical joint inversion to fully evaluate shaly sandstone formations, Journal of Applied Sciences, Volume 12, Issue 3.
 
 Contrubutors are welcome to update or convert to other programming languages.
